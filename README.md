@@ -13,20 +13,20 @@ LLMs are powerful but limited by their static training data. RAG overcomes this 
 ## Architecture
 
 ```
-Knowledge Sources
-       ↓
-Document Loader
-       ↓
-  Text Splitter
-       ↓
-Embedding Model
-       ↓
-Vector Database
-       ↓
-   Retriever
-       ↓
-Large Language Model
-       ↓
+ Knowledge Sources
+         ↓
+  Document Loader
+         ↓
+   Text Splitter
+         ↓
+  Embedding Model
+         ↓
+  Vector Database
+         ↓
+     Retriever
+         ↓
+Large Language Mode
+         ↓
  Generated Response
 ```
 
@@ -59,7 +59,7 @@ Generates responses using both the user query and the retrieved context.
 - **LangChain**
 - **ChromaDB**
 - **HuggingFace Embeddings**
-- **Google Gemini 2.5 Flash**
+- **Google Gemini 2.5 Flash (since it has free API and LangChain support)**
 - **Python**
 
 ---
