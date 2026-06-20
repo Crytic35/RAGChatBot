@@ -84,7 +84,3 @@ Generates responses using both the user query and the retrieved context.
 - Google Gemini API Documentation: https://ai.google.dev/
 
 ---
-
-## License
-
-This project is intended for educational and research purposes.
