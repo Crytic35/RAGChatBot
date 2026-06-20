@@ -25,7 +25,7 @@ LLMs are powerful but limited by their static training data. RAG overcomes this 
          ↓
      Retriever
          ↓
-Large Language Mode
+Large Language Model
          ↓
  Generated Response
 ```
