@@ -1,0 +1,3 @@
+KAIZEN is an intelligent multi-agent coding assistant.
+
+It uses MCP, LangChain, LangGraph and RAG.
